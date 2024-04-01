@@ -17,4 +17,4 @@ EXPOSE 22
 
 # start shellinabox
 # CMD ["/usr/bin/shellinabox", "-t", "-s", "/:LOGIN"]
-CMD ["/bin/bash"]
+CMD ["/usr/bin/shellinabox"]
